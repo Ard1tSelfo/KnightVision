@@ -2,7 +2,7 @@
 
 ChessVision is a tool designed for the academic exploration of Computer Vision and the study of chess games. Leveraging image processing and machine learning techniques, specifically Convolutional Neural Networks (CNN), KnightVision aims to assist chess enthusiasts in analyzing games by converting images of chessboards into digitally understandable formats. This project focuses on the educational aspect of chess, facilitating the evaluation and understanding of game strategies and positions.
 
-**Important Note:** ChessVision is intended strictly for academic and study purposes (Computer Science and Chess). It is not designed to facilitate or encourage cheating in any form. We advocate for the integrity and fair play of chess and encourage the use of this tool in a manner that respects these principles.
+**Important Note:** KnightVision is intended strictly for academic and study purposes (Computer Science and Chess). It is not designed to facilitate or encourage cheating in any form. We advocate for the integrity and fair play of chess and encourage the use of this tool in a manner that respects these principles.
 
 ## Key Features
 
